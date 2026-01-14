@@ -2,13 +2,13 @@
 
 🎓 B.Tech Computer Science (Data Science) @ Bennett University  
 💼 Product Design Intern (R&D) @ Ericsson  
-🔐 Interested in Backend Development, Data Science & Security Applications  
+🔐 Focused on Software Development and Data Science, building scalable and data-driven solutions
 
 ---
 
 ## 👩‍💻 About Me
 
-I am a Computer Science undergraduate specializing in **Data Science**, with hands-on experience in **backend development, APIs, data analysis, and security-focused applications**.  
+Computer Science undergraduate with a focus on backend software development and data science, experienced in building APIs and data-driven systems.
 I enjoy building **scalable, real-world solutions** and translating technical requirements into clean, functional products.
 
 - 💻 Backend & API Development (FastAPI, REST)
