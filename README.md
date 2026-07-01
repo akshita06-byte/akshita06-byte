@@ -1,6 +1,6 @@
 # Hi 👋, I'm Akshita Singh
 
-🎓 B.Tech Computer Science (Data Science) @ Bennett University  
+🎓 B.Tech Computer Science @ Bennett University  
 💼 Product Design Intern (R&D) @ Ericsson  
 🔐 Focused on Software Development and Data Science, building scalable and data-driven solutions
 
